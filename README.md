@@ -14,6 +14,7 @@ I am export for web developing. I am able to create a new website with WordPress
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-f22e22?style=flat&logoColor=fff&logo=laravel)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-45aed8?style=flat&logoColor=fff&logo=go)&nbsp;
+[![](https://visitcount.itsvg.in/api?id=dipaksarkar&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <center>
   <table>
